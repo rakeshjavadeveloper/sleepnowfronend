@@ -1,0 +1,219 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width:1187px){
+.container{ width:1004px;}
+
+ul.bnr-ulist1 li p{ font-size: 13px;}
+.bnr-revpara{ margin:10px 0;}
+.para-text1{ line-height: 26px;}
+ul.rdiv-ul li{ line-height:26px;}
+.worth-box{ margin-top:30px;}
+.pkg-opt{ padding: 20px 0px 40px;}
+.shop-btn { width: 248px;}
+.bnr-free { width: 339px;}
+.bnr-free ul li { padding-left: 12px;}
+ul.bnr-fotrul li p{ font-size:17px ; line-height:26px;}
+
+.s1-ldiv{ width:60%; padding:30px;top: 25px;}
+.s1-hdng{ font-size:36px; line-height:42px;}
+.s1-para {font-size: 17px;line-height: 26px;margin-top: 8px;}
+ul.s2-ul li{    padding: 0 0 15px 55px; margin-top: 15px;}
+.abt-prod { font-size: 15px; line-height: 24px;}
+.abt-prod span { font-size: 22px; line-height: 30px;}
+
+ul.s3-ul li { padding: 20px 5px 25px;}
+ul.s3-ul li p{ font-size:19px;}
+
+
+.bar { width: 70%;}
+.s6-hdng{ font-size: 27px;}
+}
+
+
+@media only screen and (max-width:1021px){
+.container{ width:750px;}
+.forTab{ display:block;}
+
+.logo { width: 180px;margin-top: 12px;}
+.prms-hdng { font-size: 18px;}
+ul.bnr-ulist1 li { padding: 0 2px; margin-top: 15px;}
+ul.bnr-ulist1 li img { width: 60px;}
+ul.bnr-ulist1 li p { font-size: 10px;margin-top: 5px;}
+.bnr-para1 {font-size: 18px;}
+.bnr-hdng {font-size: 36px;line-height: 42px;}
+.bnr-revpara {margin: 7px 0;}
+.bnr-revpara span {font-size: 17px;line-height: 18px;}
+.para-text1 {font-size: 17px; line-height: 24px;}
+ul.rdiv-ul{ margin-top:10px;}
+ul.rdiv-ul li{ font-size:15px;line-height: 22px;background: url(../images/tik-bullet.png) left 4px no-repeat}
+.worth-box {margin-top: 0px;}
+.pkg-opt {margin: 10px 16px 0px 0;padding: 10px 5px 20px ;width: 48%;}
+.pkg-opt:nth-child(2){ margin:10px 0px 0px 0 }
+.buy-opt h1 {font-size: 20px;line-height: 28px;}
+.price-tag { margin-top: 15px;font-size: 20px; line-height: 28px;} 
+.rdiv-footer{ padding:0px;}  
+.btn {height: 50px;line-height: 50px;font-size: 20px;}   
+.shop-btn { width: 190px;margin-top: 25px;}      
+.bnr-free { width: 250px; margin:0;}
+.bnr-free img {width: 119px; margin-top: 25px;}  
+.bnr-free ul { width: 51%; margin-top: 20px; margin-left: 3px;} 
+.bnr-free ul li {font-size: 10px;line-height: 10px;margin-top: 5px;} 
+ul.bnr-fotrul{ margin-top:35px;}
+ul.bnr-fotrul li {padding: 8px 0px 12px;height: 110px;} 
+ul.bnr-fotrul li p {font-size: 13px;line-height: 20px;}
+
+.sec-1{ padding:35px 0;}
+.s1-ldiv{ padding:20px 15px 20px 20px; width:62%;top: 10px;}
+.s1-hdng {font-size: 28px;line-height: 32px;}
+.s1-para {font-size: 16px;line-height: 24px;margin-top: 5px;}
+.s1-rdiv {padding: 40px 0;}
+
+.sec-2 {padding: 40px 0;background-size: cover;}
+.comn-header{ font-size:32px; line-height:42px;}
+.s2-ldiv{ width:100%; margin-top: 25px;}
+.sec2-img { width: 370px;}
+.s2-rdiv{ width:100%; text-align:center;}
+
+.sec3{ padding: 35px;}
+.cmn-hdng-para{ font-size:17px; padding:20px 20px;}
+.s3-prod{ max-width:60%;}
+ul.s3-ul{ padding:10px 0 0 0;}
+ul.s3-ul li{ padding: 20px 0 25px; width:16%; margin-right:.8%;}
+ul.s3-ul li p {font-size: 15px;line-height: 20px;}
+
+.s4-col2 .shop-btn{ width:210px;}
+.s4-col1 ul li{ padding:10px 5px; font-size:17px;}
+.review{ padding:0;}
+
+.bar {width: 74%;}
+.s6-hdng{ font-size:20px;}
+.s6-para{ line-height:18px; font-size:16px;}
+.sec-6 .shop-btn{ margin-top:5px;}
+
+.s7-left{ width:58%;}
+.s7-para1{ font-size:17px;}
+.s7-para1 span {margin-left: 15px;}
+.s7-para2{ font-size:17px;}
+.s7-left img{width: 180px;}
+.s7-para2 span {margin-left: 70px;}
+
+.s7-right{ width: 42%;}
+.s7-right p{ font-size:17px; margin-top: 55px;}
+}
+
+
+@media only screen and (max-width:767px){
+.container{ width:100%; max-width:600px; padding:0 10px;}
+.forMob{ display:block;}
+.forDesk,.forTab,.hideMob{ display:none;}
+.menu{ display:none;}
+
+.top-fix-bar{margin-bottom:60px;}
+.menubar{height: 60px;margin-top: -60px; top: 60px;}
+
+.logo {width: 130px;margin-top: 14px;}
+.mob-mnu-ic{top:20px;}
+.header{padding:5px 0;}
+.header h1{ font-size:13px;}
+
+
+.bnr-ldiv{ width:100%;}
+.banner{ padding:20px 0 10px;}
+.bnr-rdiv{ width:100%; text-align:center;}
+.bnr-ldiv{ margin-top:15px; padding-bottom:20px;}
+.abt-prms{padding-top:20px;}
+ul.bnr-ulist1 li p{ font-size:12px;}
+.para-text1{ margin-top:20px; font-size:16px; text-align: left;}
+ul.rdiv-ul li{ font-size:16px; line-height:24px; margin-top:4px;background: url(../images/tik-bullet.png) left 4px no-repeat;padding-left: 26px;}
+.pkg-opt {width: 48%;margin-right: 4%;margin-top: 15px;}
+.pkg-opt:nth-child(2){margin-right: 0%;    margin: 15px 0px 0px 0;}
+.shop-btn {width: 100%;}
+.bnr-free {width: 100%;}
+.bnr-free ul li {font-size: 16px;line-height: 18px;margin-top: 5px;}
+.bnr-free img {width: 165px;margin-top: 18px;}
+ul.bnr-fotrul{ border:none; margin-top:10px;} 
+ul.bnr-fotrul li{ margin-right:4%; width:48%;border:none; padding:0; margin-top:20px;} 
+ul.bnr-fotrul li:nth-child(2){margin-right:0%}
+ul.bnr-fotrul li:nth-child(4){margin-right:0%}
+ul.bnr-fotrul li p {font-size: 16px;line-height: 22px;}
+.sec-1{ padding:30px 0px 30px;}
+.s1-ldiv{ width:100%; padding:0; position:static;background: none; text-align:center;}
+.s1-rdiv{ display:none;}
+.s1-hdng{ font-size:25px;}
+.sec1-img {display: inline-block;max-width: 100%;margin-top: 15px;vertical-align: middle;}
+.s1-para { margin-top: 25px;}
+    
+.sec-2{ padding:20px 0;}    
+.comn-header { font-size: 24px;line-height: 32px;} 
+.abt-prod {font-size: 16px;} 
+.s2-rdiv{ margin-top:10px;}  
+    
+.sec3{ padding:20px 0;}  
+.cmn-hdng-para{ font-size:16px; padding:0 10px;margin-top:15px;}
+.s3-prod{ max-width:100%; margin-top:15px;}
+ul.s3-ul li {width: 32%;margin-right: 2%; margin-top:15px;padding: 10px 0 20px;}
+ul.s3-ul li:nth-child(3){margin-right: 0%;}    
+ul.s3-ul li:nth-child(6){margin-right: 0%;}
+ul.s3-ul li p{ font-size:16px; letter-spacing:.3px;}
+
+.sec-4{ padding:25px 0;}
+.s4-col1 ul li{ padding: 6px 0;font-size: 15px;line-height: 20px;}    
+.s4-col1 ul li:first-child{ height:60px;padding-top: 0px;}
+.s4-col1 ul li:nth-child(5){ padding:17px 0;}
+.s4-col1 ul li p{padding: 8px 10px 6px;font-size: 18px;line-height: 22px;}
+.s4-col2{ border-radius:0px;}
+.s4-col2 ul li:first-child{ height:60px;padding-top: 15px;}
+.s4-col2 ul li img{ max-width:85%;}
+.s4-col2 ul li:first-child img{ max-width:85%;}
+.s4-col2{ padding:0;}
+.s4-col3{ margin-top:0px;}
+.s4-col3 ul li:first-child { height:60px;padding-top: 15px;}
+.s4-col3 ul li p{ font-size:18px;}
+.shop-btn-mob{ display:inline-block; vertical-align:middle; width:100%; margin-top:20px;}
+
+
+.sec-5{ padding:30px 0;}
+.review-box{ padding-left:85px;}
+.s5-img{ width:70px;}
+.review-name{ font-size:16px;}
+.verified-buyer{ font-size:16px;}
+.review-abt{ font-size:16px; line-height:24px;}
+
+.sec-6 {background-size: cover;padding: 20px 0;}
+.bar {width:100%;}
+.s6-hdng{ text-align:center; line-height:28px;}  
+.s6-para{ text-align:center; margin-top:15px; line-height:24px;}
+.sec-6 .shop-btn{ margin-top:30px;}
+
+.s7-left{ text-align:center; width:100%;}
+
+.s7-right{ text-align:center;width:100%;}
+.s7-para2 span {margin-left: 10px;}   
+.s7-right p{ margin-top:10px;}
+
+.footer{padding:0 0 25px;}
+.footer p{ font-size:16px; margin-top:25px;}
+
+.shop-btn{display:none;}
+.rdiv-footer .shop-btn{display:block;}
+
+.btn{height:60px; line-height:58px; font-size:23px;}
+/*-----------------------
+CSS FOR FIXED BTN
+-------------------------*/
+#call-btn {
+	float: left;
+	width: 100%;
+	position: fixed;
+	bottom: 0%;
+	left: auto;
+	z-index: 99;
+	transition: bottom 1s;
+	display: table;
+	}
+#call-btn .btn{height:60px; line-height:58px; border-radius:0;}
+
+
+
+}
